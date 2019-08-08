@@ -68,6 +68,6 @@ end
 begin 
   Brainf_ck.new(ARGF.read).run
 rescue Brainf_ck::ProgramError
-  puts "Brainf_ckプログラムの実行に失敗しました"
+  puts "fueプログラムの実行に失敗しました"
 end
 
