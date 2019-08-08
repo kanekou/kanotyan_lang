@@ -59,7 +59,7 @@ class Brainf_ck
         jumps[to] = from
       end
     end
-    raise ProgramError, "「。」が多すぎます" unless starts.empty?
+    raise ProgramError, "「😭」が多すぎます" unless starts.empty?
     
     jumps
   end
