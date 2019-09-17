@@ -1,4 +1,4 @@
-# kanotyan_lang
+# kanochan_lang
 brain*cukを改良した松原花音ちゃん言語です．
 「ふええ...」でコンピュータと対話します．
 
